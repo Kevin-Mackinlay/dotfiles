@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kemack83@gmail.com
+	name = Kevin Mackinlay
